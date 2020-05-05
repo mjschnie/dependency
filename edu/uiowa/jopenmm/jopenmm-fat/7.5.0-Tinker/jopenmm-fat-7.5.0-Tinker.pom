@@ -89,7 +89,7 @@
         <version>${javadoc.version}</version>
         <executions>
           <execution>
-            <id>attach-sources</id>
+            <id>javadoc</id>
             <phase>verify</phase>
             <goals>
               <goal>jar</goal>
