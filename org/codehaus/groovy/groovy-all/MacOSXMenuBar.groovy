@@ -16,7 +16,7 @@
  *  specific language governing permissions and limitations
  *  under the License.
  */
-package groovy.ui.view
+package groovy.console.ui.view
 
 def handler = false
 if (!handler) {
