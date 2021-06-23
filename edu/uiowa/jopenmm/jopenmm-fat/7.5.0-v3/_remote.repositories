@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Jun 22 19:34:21 CDT 2021
+#Wed Jun 23 14:44:36 CDT 2021
 jopenmm-fat-7.5.0-v3.jar>=
 jopenmm-fat-7.5.0-v3-sources.jar>=
+jopenmm-fat-7.5.0-v3.pom>1.ffx.repo=
+jopenmm-fat-7.5.0-v3.jar>1.ffx.repo=
 jopenmm-fat-7.5.0-v3-javadoc.jar>=
 jopenmm-fat-7.5.0-v3.pom>=
