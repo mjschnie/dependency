@@ -4,13 +4,14 @@ cp -R $VER $VER-ffx
 
 cd $VER-ffx
 
-jar xvf groovy-console-$VER.jar
+jar xf groovy-console-$VER.jar
+ls groovy/console/ui/view/MacOSXMenuBar*
 
 cp ../MacOSXMenuBar.groovy .
 
-goovyc MacOSXMenuBar.groovy
+groovyc MacOSXMenuBar.groovy
 
-jar cvf groovy-console-$VER-ffx.jar META-INF groovy
+jar cf groovy-console-$VER-ffx.jar META-INF groovy
 
 rm -rf META-INF groovy MacOSXMenuBar.groovy groovy-console-$VER.jar
 
