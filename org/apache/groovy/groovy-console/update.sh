@@ -1,4 +1,4 @@
-export VER=4.0.0
+export VER=4.0.1
 
 cp -R $VER $VER-ffx
 
