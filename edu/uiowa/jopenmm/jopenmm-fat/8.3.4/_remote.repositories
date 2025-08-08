@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 07 20:47:41 CDT 2025
+jopenmm-fat-8.3.4-javadoc.jar>=
+jopenmm-fat-8.3.4-sources.jar>=
+jopenmm-fat-8.3.4.jar>=
+jopenmm-fat-8.3.4.pom>=
